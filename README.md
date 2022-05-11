@@ -1,0 +1,2 @@
+# ujrat
+ujratervezes gyakorlo
